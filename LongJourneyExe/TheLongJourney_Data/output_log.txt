@@ -1,0 +1,66 @@
+Initialize engine version: 4.7.0f1 (9c73fd3cda99)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 970M              (ID=0x13d8)
+    Vendor:   NVIDIA
+    VRAM:     2991 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Proyectos\repos\UnityCourse\LaserDefender\LongJourneyExe\TheLongJourney_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Proyectos\repos\UnityCourse\LaserDefender\LongJourneyExe\TheLongJourney_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Proyectos\repos\UnityCourse\LaserDefender\LongJourneyExe\TheLongJourney_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Proyectos\repos\UnityCourse\LaserDefender\LongJourneyExe\TheLongJourney_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Proyectos\repos\UnityCourse\LaserDefender\LongJourneyExe\TheLongJourney_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Proyectos\repos\UnityCourse\LaserDefender\LongJourneyExe\TheLongJourney_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.101 seconds
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: D:\Proyectos\repos\UnityCourse\LaserDefender\LongJourneyExe\TheLongJourney_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Proyectos\repos\UnityCourse\LaserDefender\LongJourneyExe\TheLongJourney_Data\Managed\System.dll (this message is harmless)
+Load this level: SelectSpaceShip
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+UnloadTime: 3.836442 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 278.
+Total: 0.609975 ms (FindLiveObjects: 0.014617 ms CreateObjectMapping: 0.007111 ms MarkObjects: 0.187259 ms  DeleteObjects: 0.003160 ms)
+
+Load this level: Level_01
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+UnloadTime: 1.914863 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 51 unused Assets to reduce memory usage. Loaded Objects now: 527.
+Total: 0.547160 ms (FindLiveObjects: 0.015802 ms CreateObjectMapping: 0.009086 ms MarkObjects: 0.159604 ms  DeleteObjects: 0.032395 ms)
+
+UnloadTime: 0.305382 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 311 unused Assets to reduce memory usage. Loaded Objects now: 209.
+Total: 0.774715 ms (FindLiveObjects: 0.012641 ms CreateObjectMapping: 0.008691 ms MarkObjects: 0.108246 ms  DeleteObjects: 0.258765 ms)
+
+Load this level: SelectSpaceShip
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+UnloadTime: 0.422320 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 280.
+Total: 0.534518 ms (FindLiveObjects: 0.009481 ms CreateObjectMapping: 0.007111 ms MarkObjects: 0.128790 ms  DeleteObjects: 0.002370 ms)
+
+Load this level: Level_01
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+UnloadTime: 0.382814 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 51 unused Assets to reduce memory usage. Loaded Objects now: 527.
+Total: 0.490271 ms (FindLiveObjects: 0.014222 ms CreateObjectMapping: 0.008691 ms MarkObjects: 0.137086 ms  DeleteObjects: 0.029629 ms)
+
